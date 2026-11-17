@@ -20,3 +20,5 @@ python main.py
 - Python
 - Git
 - GitHub
+
+- I'm learning Git through hands-on project.
